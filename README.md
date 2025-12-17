@@ -1,10 +1,10 @@
 # Amigo Oculto Angola
 
-## 🎁 Sobre o Projeto
+## 🎁 Sobre o Projecto
 
 Landing page oficial da aplicação **Amigo Oculto Angola** - uma aplicação mobile desenvolvida para facilitar, organizar e modernizar eventos de Amigo Oculto em Angola.
 
-## 🎯 Objetivo
+## 🎯 Objectivo
 
 A aplicação centraliza toda a gestão de eventos de Amigo Oculto, oferecendo:
 
@@ -67,7 +67,7 @@ npm run dev
 
 ## 🇦🇴 Desenvolvido em Angola
 
-Este projeto foi desenvolvido com foco no contexto angolano, incluindo suporte à moeda local (Kwanza - AOA) e adaptado às necessidades locais.
+Este projecto foi desenvolvido com foco no contexto angolano, incluindo suporte à moeda local (Kwanza - AOA) e adaptado às necessidades locais.
 
 ---
 
