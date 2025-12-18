@@ -1,5 +1,9 @@
 # Amigo Oculto Angola
 
+<div align="center">
+  <img src="/banner-amigooculto-angola.png" alt="Amigo Oculto Angola" width="100%">
+</div>
+
 ## 🎁 Sobre o Projecto
 
 Landing page oficial da aplicação [Amigo Oculto Angola](https://www.exemplo.com) - uma aplicação mobile desenvolvida para facilitar, organizar e modernizar eventos de Amigo Oculto em Angola.
