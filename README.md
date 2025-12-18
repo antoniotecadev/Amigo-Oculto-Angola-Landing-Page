@@ -1,7 +1,7 @@
 # Amigo Oculto Angola
 
 <div align="center">
-  <img src="/banner-amigooculto-angola.png" alt="Amigo Oculto Angola" width="100%">
+  <img src="https://github.com/antoniotecadev/AmigoOculto-Angola-LandingPage/blob/main/public/banner-amigooculto-angola.png" alt="Amigo Oculto Angola" width="100%">
 </div>
 
 ## 🎁 Sobre o Projecto
